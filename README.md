@@ -1,4 +1,4 @@
-# Quiz
+# This is a guide to writing programs in Github.
 
 ## Instructions
 1. Open in GitHub codespaces
